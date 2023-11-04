@@ -1,0 +1,13 @@
+{
+  "aws.suppressPrompts": {
+    "codeWhispererNewWelcomeMessage": true
+  },
+  "editor.accessibilitySupport": "off",
+  "editor.fontFamily": "MesloLGS NF, Menlo, Monaco, 'Courier New', monospace",
+  "editor.formatOnSave": true,
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.tree.indent": 20
+}
